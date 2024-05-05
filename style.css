@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+  }
+  canvas{display:block}
+  h1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: pink;
+    font-family: "Source Sans Pro";
+    font-size: 5em;
+    font-weight: 900;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  .pic{
+    position: absolute;
+    top: 60%;
+    left: 42%;
+    ;
+  }
+  img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  h2{
+    margin-top: 20px;
+    color: rgb(233, 197, 149);
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  h6{
+    color: azure;
+    text-align: center;
+  }

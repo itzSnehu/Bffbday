@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(240, 163, 231);
+}
+
+h1{
+    background-color: rgb(177, 222, 251);
+    color: rgb(136, 24, 241);
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(251, 137, 222);
+    color: rgb(249, 238, 88);
+    text-align: center;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+h3{
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgb(223, 175, 115);
+}

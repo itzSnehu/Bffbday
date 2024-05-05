@@ -1,0 +1,68 @@
+.bgimage{
+    background-size: 100%;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+}
+
+
+.logojpg{
+     position: absolute;
+     height: 100px;
+     width: 100px;
+     border: 2px solid white;
+     border-radius: 50%;    
+}
+
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    display: flex;
+}
+body{
+    ;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(223, 51, 223);
+}
+.text{
+    background-color: aliceblue;
+    opacity: 0.5;
+    position: absolute;
+    left: 300px;
+    top: 6px;
+    border: 2px solid rgb(3, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15%;
+}
+
+.letterpng{
+     height: 520px;
+     width: 480px;
+     position: absolute;
+     left: 40px;
+     top: 170px;
+     opacity: 0.7;
+}
+.top-left{
+    position: absolute;
+    top: 180px;
+    left: 53px;
+    height: 480px;
+    width: 430px;
+    border: 2px solid rgb(45, 42, 42);
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.video{
+    position: absolute;
+    top: 650px;
+    left: 160px;
+}
